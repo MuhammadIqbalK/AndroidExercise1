@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Recycleview&amp;tablayout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="tab_text_1">tab 1</string>
+    <string name="tab_text_2">tab 2</string>
+    <string name="tab_text_3">tab 3</string>
+
+<!--    headings-->
+    <string name="head_1">Pura Besakih</string>
+    <string name="head_2">Kepulauan Derawan</string>
+    <string name="head_3">Taman Nasional Way kambas</string>
+    <string name="head_4">Pantai Parai Tenggiri</string>
+    <string name="head_5">Nusa Dua(bali)</string>
+    <string name="head_6">Gunung Rinjani (lombok, NTB)</string>
+    <string name="head_7">Danau Toba (Sumatera Utara)</string>
+    <string name="head_8">Nusa Penida (Bali)</string>
+
+<!--deskitem-->
+    <string name="item_1">deskrpsi 1</string>
+    <string name="item_2">deskripsi 2</string>
+    <string name="item_3">deskripsi 3</string>
+    <string name="item_4">deskripsi 4</string>
+    <string name="item_5">deskripsi 5</string>
+    <string name="item_6">deskripsi 6</string>
+    <string name="item_7">deskripsi 7</string>
+    <string name="item_8">deskripsi 8</string>
+
+    <integer-array name="data_photo">
+        <item>@drawable/pura_besakih</item>
+        <item>@drawable/kepulauan_derawan</item>
+        <item>@drawable/taman_nasional_way_kambas</item>
+        <item>@drawable/pantai_parai_tenggiri</item>
+        <item>@drawable/nusa_dua_bali</item>
+        <item>@drawable/gunung_rinjani</item>
+        <item>@drawable/danau_toba</item>
+        <item>@drawable/nusa_penida</item>
+    </integer-array>
+</resources>
